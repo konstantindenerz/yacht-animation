@@ -1,0 +1,26 @@
+{
+  "name": "@konstantindenerz/yacht-animation",
+  "version": "1.0.1",
+  "description": "ASCII yacht sailing animation for your terminal",
+  "main": "index.js",
+  "private": false,
+  "bin": {
+    "yacht-animation": "./bin/yacht-animation"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "yacht",
+    "animation",
+    "ascii",
+    "terminal",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konstantindenerz/yacht-animation.git"
+  },
+  "author": "Konstantin Denerz <konstantin.denerz@gmail.com> (http://konstantin-denerz.com/)",
+  "license": "MIT"
+}

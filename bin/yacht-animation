@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+const YachtAnimation = require("../index.js");
+
+const yacht = new YachtAnimation();
+yacht.animate();
